@@ -25,4 +25,8 @@ function Solve(object){
 
     return result;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6feddfa4b245d29e21a208b8d05cc5c2676f39f2
